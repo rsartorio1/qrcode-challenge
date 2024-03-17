@@ -1,2 +1,2 @@
 # qrcode-challenge
- qrcode challend from frontendmentor
+ qrcode challenge from frontendmentor
